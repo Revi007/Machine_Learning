@@ -2,4 +2,4 @@
 
 Practical Machine Learning Project
 
-# To view the html file in your browser click **[HERE](http://rpubs.com/Revi/85744)**
+# To view the html file in your browser click **[HERE](http://revi007.github.io/Machine_Learning/CourseProject.html)**
